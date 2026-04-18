@@ -1,13 +1,3 @@
-
-# wget https://repo.anaconda.com/miniconda/Miniconda3-latest-Linux-x86_64.sh
-# bash Miniconda3-latest-Linux-x86_64.sh
-# source ~/.bashrc
-# conda create -n pytorch python=3.11
-# conda activate pytorch
-
-# pip install ultralytics wandb gpustat
-# wandb login 7d3d4da545e2548454d463fc55f1af1409db7195
-
 import os
 import gc
 import yaml
