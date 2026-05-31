@@ -1,0 +1,11 @@
+
+model:
+  model_path: "weights/model.pt"
+  
+  parameters:
+    tile_size: 512
+    tile_overlap: 0.15
+    batch_size: 1
+    iou_thresh: 0.5
+    conf_thresh: 0.25
+    nms_thresh: 0.5

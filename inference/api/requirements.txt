@@ -1,0 +1,7 @@
+fastapi[standard]
+uvicorn[standard]
+python-multipart
+numpy
+opencv-python-headless
+pillow
+boto3
